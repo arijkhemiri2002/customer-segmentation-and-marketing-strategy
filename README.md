@@ -1,4 +1,4 @@
-**Customer Segmentation Project:
+Customer Segmentation Project:
 
 This project applies K-Means clustering to segment customers based on their purchasing behavior.
 
